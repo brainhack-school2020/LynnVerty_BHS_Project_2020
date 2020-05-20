@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/Visit-our%20project%20page-ff69b4)](https://school.brainhackmtl.org/project/template)
 
-# It's time to code! - fMRI python analysis 
+# It's time to code! - fMRI
 
 Team contributors: Lynn Valeyry Verty
 
@@ -10,14 +10,13 @@ Team contributors: Lynn Valeyry Verty
 ## Summary 
 
 
-I'm a first year PhD student in neuropsychology at University of Montreal. With BHS, I wish to learn more about python for fMRI data analysis. I especially wish to be better at automatizing my scripts with function definition in python. 
-.
+I'm a first year PhD student in neuropsychology at University of Montreal. I study the predictive value of fMRI data on cognitive intervention gains with older people. With BHS, I wish to learn more about python for fMRI data analysis. I especially wish to be better at automatizing my scripts with function definition in python. 
 
 ## Project definition 
 
 ### Background
 
-My project is on aging and cognitive training. Not sure yet if I want to use the data from my thesis project or open data ressources. 
+My project is on aging and cognitive training. Not sure yet if I will use the data from my thesis project or open data ressources. 
 
 ### Tools 
 

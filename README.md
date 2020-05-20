@@ -1,11 +1,11 @@
 [![](https://img.shields.io/badge/Visit-our%20project%20page-ff69b4)](https://school.brainhackmtl.org/project/template)
 
-# A template for project reports at BrainHack School
+# It's time to code! 
 
 Team contributors: Brainhack School
 
-![BrainHack School](giphy_code.gif)
-![GitHub Logo](/images/logo.png)
+![Time to code](giphy_code.gif)
+
 
 ## Summary 
 

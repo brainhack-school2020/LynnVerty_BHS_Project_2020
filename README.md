@@ -4,7 +4,7 @@
 
 Team contributors: Brainhack School
 
-![BrainHack School](bhs2020.png)
+![BrainHack School](giphy_code.gif)
 ![GitHub Logo](/images/logo.png)
 
 ## Summary 

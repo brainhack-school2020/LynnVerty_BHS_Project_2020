@@ -22,6 +22,7 @@ My project is on aging and cognitive training. Not sure yet if I will use the da
 
 I want to learn more about these tools :
  
+ * Nilearn
  * Python libraries of statistics and visualization (Matplotlib, SciPy, NumPy, Seaborn, ...)
  * Git/Github
  

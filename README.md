@@ -9,14 +9,14 @@ Team contributors: Brainhack School
 ## Summary 
 
 
-I'm a first year PhD student in neuropsychology at University of Montreal. With BHS, I wish to learn more about python to do analyses of fMRI data. I especially wish to be better at automatizing my scripts with function definition in python. 
+I'm a first year PhD student in neuropsychology at University of Montreal. With BHS, I wish to learn more about python for fMRI data analysis. I especially wish to be better at automatizing my scripts with function definition in python. 
 .
 
 ## Project definition 
 
 ### Background
 
-My project is on Aging and cognitive training. My goal is to 
+My project is on aging and cognitive training. Not sure yet if I want to use the data from my thesis project or open data ressources. 
 
 ### Tools 
 

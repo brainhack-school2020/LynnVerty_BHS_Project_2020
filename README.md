@@ -1,8 +1,8 @@
 [![](https://img.shields.io/badge/Visit-our%20project%20page-ff69b4)](https://school.brainhackmtl.org/project/template)
 
-# It's time to code! 
+# It's time to code! - fMRI python analysis 
 
-Team contributors: Brainhack School
+Team contributors: Lynn Valeyry Verty
 
 ![Time to code](giphy_code.gif)
 

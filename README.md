@@ -10,7 +10,7 @@ Team contributors: Lynn Valeyry Verty
 ## Summary 
 
 
-I'm a first year PhD student in neuropsychology at University of Montreal. I study the predictive value of fMRI data on cognitive intervention gains with older people. With BHS, I wish to learn more about python for fMRI data analysis. I especially wish to be better at automatizing my scripts with function definition in python. 
+I'm a first year PhD student in clinical neuropsychology at University of Montreal. I study the predictive value of fMRI data on cognitive intervention gains with older people. With BHS, I wish to learn more about python for fMRI data analysis. I especially wish to be better at automatizing my scripts with function definition in python. 
 
 ## Project definition 
 
